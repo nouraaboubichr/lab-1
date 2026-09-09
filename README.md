@@ -39,9 +39,9 @@ Les différentes opérations sont séparées dans la classe `Calculatrice`.
 
 **Captures d'écran :**
 
-<img width="1280" height="673" alt="Étape 3 - Méthodes" src="URL_IMAGE_3" />
+<img width="1280" height="673" alt="Étape 3 - Méthodes" src="Capture d'écran 2026-09-09 205721.png" />
 
-<img width="1258" height="640" alt="Étape 3 - Méthodes" src="URL_IMAGE_31" />
+<img width="1258" height="640" alt="Étape 3 - Méthodes" src="Capture d'écran 2026-09-09 205732.png" />
 
 ---
 
