@@ -1,15 +1,19 @@
 # TP_1
 
-# Étape 1 - Affichage du menu
+## Étape 1 - Affichage du menu
 
 * On utilise `System.out.println()` pour afficher le menu principal.
 * Le menu présente les différentes opérations disponibles : addition, multiplication, moyenne, maximum et quitter.
 * À cette étape, le programme affiche uniquement les choix proposés à l'utilisateur.
 * L'objectif est de présenter clairement les fonctionnalités avant de commencer les calculs.
 
-<img width="1280" height="673" alt="1" src="URL_DE_VOTRE_IMAGE" />
+**Capture d'écran :**
 
-# Étape 2 - Lecture du choix + boucle
+<img width="1280" height="673" alt="Étape 1 - Affichage du menu" src="Capture d'écran 2026-09-09 184531.png" />
+
+---
+
+## Étape 2 - Lecture du choix + boucle
 
 * On crée un objet `Scanner` avec `new Scanner(System.in)` pour lire les données saisies au clavier.
 * `sc.nextInt()` permet de récupérer le choix de l'utilisateur.
@@ -17,9 +21,13 @@
 * Le `do-while` permet de réafficher le menu après chaque opération.
 * La boucle s'arrête lorsque l'utilisateur choisit l'option `0`.
 
-<img width="1280" height="673" alt="2" src="URL_DE_VOTRE_IMAGE" />
+**Capture d'écran :**
 
-# Étape 3 - Création des méthodes
+<img width="1280" height="673" alt="Étape 2 - Lecture du choix et boucle" src="URL_IMAGE_2" />
+
+---
+
+## Étape 3 - Création des méthodes
 
 Les différentes opérations sont séparées dans la classe `Calculatrice`.
 
@@ -29,11 +37,15 @@ Les différentes opérations sont séparées dans la classe `Calculatrice`.
 * `maximum(int... valeurs)` parcourt plusieurs valeurs et retourne la plus grande.
 * Les méthodes sont déclarées `static`, ce qui permet de les appeler directement depuis la classe `Tp1` sans créer un objet `Calculatrice`.
 
-<img width="1280" height="673" alt="3" src="URL_DE_VOTRE_IMAGE" />
+**Captures d'écran :**
 
-<img width="1258" height="640" alt="31" src="URL_DE_VOTRE_IMAGE" />
+<img width="1280" height="673" alt="Étape 3 - Méthodes" src="URL_IMAGE_3" />
 
-# Étape 4 - Connexion du menu aux méthodes
+<img width="1258" height="640" alt="Étape 3 - Méthodes" src="URL_IMAGE_31" />
+
+---
+
+## Étape 4 - Connexion du menu aux méthodes
 
 * On utilise `switch (choix)` pour exécuter l'opération correspondant au choix de l'utilisateur.
 * **case 1** : demande deux entiers et appelle `Calculatrice.addition(a, b)`.
@@ -44,16 +56,18 @@ Les différentes opérations sont séparées dans la classe `Calculatrice`.
 * **default** : affiche `Option invalide !` lorsque le choix n'est pas reconnu.
 * Cette organisation permet de séparer la saisie des données et les calculs, ce qui rend le programme plus clair et plus facile à maintenir.
 
-<img width="901" height="474" alt="4" src="URL_DE_VOTRE_IMAGE" />
+**Captures d'écran :**
 
-<img width="948" height="491" alt="41" src="URL_DE_VOTRE_IMAGE" />
+<img width="901" height="474" alt="Étape 4 - Switch" src="URL_IMAGE_4" />
 
-<img width="1082" height="520" alt="42" src="URL_DE_VOTRE_IMAGE" />
+<img width="948" height="491" alt="Étape 4 - Addition" src="URL_IMAGE_41" />
 
-<img width="1280" height="670" alt="43" src="URL_DE_VOTRE_IMAGE" />
+<img width="1082" height="520" alt="Étape 4 - Multiplication" src="URL_IMAGE_42" />
 
-<img width="1277" height="666" alt="44" src="URL_DE_VOTRE_IMAGE" />
+<img width="1280" height="670" alt="Étape 4 - Moyenne" src="URL_IMAGE_43" />
 
-<img width="1280" height="673" alt="45" src="URL_DE_VOTRE_IMAGE" />
+<img width="1277" height="666" alt="Étape 4 - Maximum" src="URL_IMAGE_44" />
 
-<img width="1280" height="676" alt="46" src="URL_DE_VOTRE_IMAGE" />
+<img width="1280" height="673" alt="Étape 4 - Exécution" src="URL_IMAGE_45" />
+
+<img width="1280" height="676" alt="Étape 4 - Fin du programme" src="URL_IMAGE_46" />
