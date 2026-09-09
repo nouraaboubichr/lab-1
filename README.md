@@ -58,11 +58,11 @@ Les différentes opérations sont séparées dans la classe `Calculatrice`.
 
 **Captures d'écran :**
 
-<img width="901" height="474" alt="Étape 4 - Switch" src="URL_IMAGE_4" />
+<img width="901" height="474" alt="Étape 4 - Switch" src="src/Capture d'écran 2026-09-09 205642.png" />
 
-<img width="948" height="491" alt="Étape 4 - Addition" src="URL_IMAGE_41" />
+<img width="948" height="491" alt="Étape 4 - Addition" src="Capture d'écran 2026-09-09 205658.png" />
 
-<img width="1082" height="520" alt="Étape 4 - Multiplication" src="URL_IMAGE_42" />
+<img width="1082" height="520" alt="Étape 4 - Multiplication" src="src/Capture d'écran 2026-09-09 205709.png" />
 
 <img width="1280" height="670" alt="Étape 4 - Moyenne" src="URL_IMAGE_43" />
 
