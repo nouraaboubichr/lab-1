@@ -23,7 +23,7 @@
 
 **Capture d'écran :**
 
-<img width="1280" height="673" alt="Étape 2 - Lecture du choix et boucle" src="URL_IMAGE_2" />
+<img width="1280" height="673" alt="Étape 2 - Lecture du choix et boucle" src="nbproject/Capture d'écran 2026-09-09 205625.png" />
 
 ---
 
