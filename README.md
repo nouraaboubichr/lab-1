@@ -64,10 +64,13 @@ Les différentes opérations sont séparées dans la classe `Calculatrice`.
 
 <img width="1082" height="520" alt="Étape 4 - Multiplication" src="src/Capture d'écran 2026-09-09 205709.png" />
 
-<img width="1280" height="670" alt="Étape 4 - Moyenne" src="URL_IMAGE_43" />
+<img width="1280" height="670" alt="Étape 4 - Moyenne" src="src/Capture d'écran 2026-09-09 211758.png" />
 
-<img width="1277" height="666" alt="Étape 4 - Maximum" src="URL_IMAGE_44" />
+<img width="1277" height="666" alt="Étape 4 - Maximum" src="src/Capture d'écran 2026-09-09 211817.png" />
 
-<img width="1280" height="673" alt="Étape 4 - Exécution" src="URL_IMAGE_45" />
+<img width="1280" height="673" alt="Étape 4 - Exécution" src="src/Capture d'écran 2026-09-09 212030.png" />
 
-<img width="1280" height="676" alt="Étape 4 - Fin du programme" src="URL_IMAGE_46" />
+<img width="1280" height="676" alt="Étape 4 - Fin du programme" src="src/Capture d'écran 2026-09-09 212058.png" />
+
+<img width="1280" height="676" alt="Étape 4 - Fin du programme" src="src/Capture d'écran 2026-09-09 212122.png" />
+
